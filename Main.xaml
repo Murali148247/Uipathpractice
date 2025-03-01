@@ -130,7 +130,7 @@
         <OutArgument x:TypeArguments="x:String">[Final_EmailAddress]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String" xml:space="preserve">[String.Format("The  adress is {0}@{1}", Email_1,Email_2)]</InArgument>
+        <InArgument x:TypeArguments="x:String" xml:space="preserve">[String.Format("The  email adress is {0}@{1}", Email_1,Email_2)]</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>

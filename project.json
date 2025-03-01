@@ -1,15 +1,15 @@
 {
-  "name": "Data_Manipulation1",
-  "projectId": "528d2b17-3584-4af5-8656-fc9db7d5c345",
+  "name": "Uipathpractice-main",
+  "projectId": "909aae75-81d7-4230-8c55-7d83acb3a3db",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[24.10.7]"
+    "UiPath.System.Activities": "[25.2.1]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "25.0.157.0",
+  "studioVersion": "25.0.161.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "4330ace2-784d-4a2b-8575-862718e4986f",
+      "uniqueId": "bedd8b31-504b-4b41-8eaf-df0c4b389e98",
       "input": [],
       "output": []
     }
